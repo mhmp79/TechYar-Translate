@@ -1,0 +1,94 @@
+{
+  "anatomy_caption":"TechYar | Radiology Companion",
+  "anatomy_click_hint":"Select the desired section.",
+  "anatomy_touch_hint": "Double-tap on the desired section.",
+  
+  "page_title": "TechYar | Radiology Technique",
+  "menu_anatomy": "🧬 Anatomy",
+  "menu_tools": "🧰 Tools",
+  "menu_settings": "⚙️ Settings",
+  "modality_radiography": "Radiography",
+  "modality_ct": "CT",
+  "modality_mri": "MRI",
+  "modality_angiography": "Angiography",
+
+  "settings_title": "⚙️ Settings Panel",
+  "settings_theme_label": "🌓 Light & Dark Mode",
+  "settings_pwa_install": "📲 Install App (PWA)",
+  "settings_install": "Install",
+  "settings_about": "📄 About Us",
+  "settings_changelog": "📋 Recent Changes",
+  "settings_pro_user": "✨ Pro User ✨",
+  "settings_made_with": "❤️ Made with",
+  "settings_version": "Version: {version}",
+  "settings_pro_feature": "🚀 Purchase Pro Version",
+  "settings_activate": "Activate",
+  "settings_language": "🌐 Language",
+  "settings_language_fa": "فارسی",
+  "settings_language_en": "English",
+  
+  "about_title": "📄 About Us",
+  "about_story_title": "📖 TechYar Story",
+  "about_story_text": "TechYar was born about 3 years ago!<br>The initial idea came from a PowerPoint presentation with the same stick figure on the first page, which I created for the course \"Radiographic Techniques\"!<br><br>My idea was welcomed by our university professor <a href=\"https://cv.hums.ac.ir/cv/2ef132b1-f801-45f3-8158-afbcf083a05e\" class=\"about-link-person\" data-person=\"dr-afzali\">\"Dr.Reza Afzalipoor\"</a>, and with the help of the only programmer I knew at the time, <a href=\"https://github.com/chahar4\" class=\"about-link-person\" data-person=\"agha-reza\">\"Reza Charsetad\"</a>, we decided to turn it into an Android app!<br>It was a good idea, it worked, the beta version was ready but never reached release...<br><br>After that, I decided to start coding myself, and now that idea, after years of gathering dust, has returned stronger and become a web app, so it can run on all platforms (Android, iOS, etc.) 😌",
+  "about_developer_title": "👨‍💻 Developer",
+  "about_developer_name": "Mohammad Hossein Mahdipanah",
+  "about_back_button": "↩ Back to Settings",
+
+  "changelog_title": "📋 Recent Changes",
+  "changelog_back": "↩ Back to Settings",
+  "changelog_entries": [
+    {
+      "version": "0.8",
+      "items": [
+        "➕ Added Dose Calculator",
+        "📌 Direct access to Dose Calculator from each view details (⚡ icon next to technique)"
+      ]
+    },
+    {
+      "version": "0.7.4",
+      "items": [
+        "🧰 Added Tools tab",
+        "🧮 Added GFR, BMI, and Contrast Dose calculators",
+        "🎛️ Added modality selector (Radiography, CT, MRI, Angiography)"
+      ]
+    },
+    {
+      "version": "0.7",
+      "items": [
+        "💰 Added Pro version purchase",
+        "📴 Offline usage for Pro accounts",
+        "📲 Added PWA install capability"
+      ]
+    },
+    {
+      "version": "0.6",
+      "items": [
+        "📋 Added routine views with technical details",
+        "🖼️ Added app icon"
+      ]
+    },
+    {
+      "version": "0.5",
+      "items": [
+        "📐 Unified glass rectangle sizing across all pages",
+        "📋 Added 'Recent Changes' page",
+        "✏️ Improved About page layout and rewrite",
+        "↩️ Back button functionality"
+      ]
+    },
+    {
+      "version": "0.4",
+      "items": [
+        "📄 Added view details page",
+        "👆 Improved touch performance"
+      ]
+    },
+    {
+      "version": "0.3",
+      "items": [
+        "🖼️ Added views page",
+        "📱 Mobile screen support"
+      ]
+    }
+  ]
+}
